@@ -5,7 +5,7 @@
 	"identifier"     : "Inputbinder",
 	"download"       : "https://github.com/Codenade/ksp2-inputbinder/releases/download/experimental/build.zip",
 	"license"        : "MIT",
-	"version"        : "0.4.4a",
+	"version"        : "experimental",
 	"release_status" : "testing",
 	"ksp_version"    : "0.1.4.0",
 	"resources" : {
