@@ -1,0 +1,27 @@
+{
+	"spec_version"   : 1,
+	"name"           : "Inputbinder",
+	"abstract"       : "Input rebinding tool for KSP 2 adding gamepad support.",
+	"identifier"     : "Inputbinder",
+	"download"       : "https://github.com/Codenade/ksp2-inputbinder/releases/download/experimental/build.zip",
+	"license"        : "MIT",
+	"version"        : "0.4.5a",
+	"release_status" : "testing",
+	"ksp_version"    : "0.1.4.0",
+	"resources" : {
+		"homepage"     : "https://github.com/Codenade/ksp2-inputbinder/wiki",
+		"repository"   : "https://github.com/Codenade/ksp2-inputbinder"
+	},
+	"tags" : [
+		"plugin"
+	],
+	"install" : [
+		{
+			"find"       : "inputbinder",
+			"install_to" : "BepInEx/plugins"
+		}
+	],
+	"depends" : [
+		{ "name" : "BepInEx" }
+	]
+}
